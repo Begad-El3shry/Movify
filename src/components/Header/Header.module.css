@@ -1,0 +1,28 @@
+.logoBrand {
+    color: blueviolet !important;
+    font-size: 32px !important;
+    cursor: pointer;
+}
+.navLink:hover{
+    color: blueviolet;
+}
+
+.signupBtn {
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 60px;
+}
+
+.signupBtn:hover {
+    background-color: rgb(114, 29, 193);
+    cursor: pointer;
+}
+.toggleBg{
+    background-color: blueviolet !important;
+    
+}

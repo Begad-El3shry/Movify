@@ -1,0 +1,29 @@
+.section{
+    background-image: url("../../assets/background.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.homeTitle{
+    font-size: 3.3rem;
+}
+.homeSubTitle{
+    font-size: 1.8rem;
+}
+.logoSpan{
+    color: blueviolet;
+    font-weight: bold;
+}
+.btnStyle{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 30px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 60px;
+}
+
+.btnStyle:hover{
+    background-color: rgb(114, 29, 193);
+    cursor: pointer;
+}

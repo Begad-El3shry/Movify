@@ -1,0 +1,24 @@
+.img
+{
+    width: 100%;
+    transition: all 1s;
+}
+.img:hover 
+{
+    transform: scale(1.1);
+}
+.imgBox{
+    overflow: hidden;
+}
+.moreBtn{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 30px;
+    font-size: 17px;
+    text-decoration: none;
+}
+.moreBtn:hover{
+    background-color: rgb(114, 29, 193);
+    cursor: pointer;
+}

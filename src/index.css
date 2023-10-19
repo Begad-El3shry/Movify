@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black
+}
+
+body::-webkit-scrollbar {
+    background-color: black;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: blueviolet;
+    height: 150px;
+}
